@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-      <p>CC313 REACT ACTIVITY</p>
+      <p>BSIT CC313 REACT ACTIVITY</p>
       <p>MEMBERS</p>
       <div className="box">
         <h1>PETER JOHN Z. BEROY</h1>
