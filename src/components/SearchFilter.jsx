@@ -23,3 +23,4 @@ const SearchFilter = ({ onSearch }) => {
 };
 
 export default SearchFilter;
+/* beroy */
